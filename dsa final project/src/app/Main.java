@@ -76,11 +76,12 @@ public class Main {
 
             System.out.println("22. Display All Progress");
 
-            System.out.println("23. Update Watched Duration");
+            System.out.println("23. Update Watched Duration");          
 
 
 
             System.out.println("0. Exit");
+                        System.out.println("---------");
 
             System.out.print("Enter your choice: ");
 
